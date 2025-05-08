@@ -1,6 +1,6 @@
 import threading
 from scripts.Client import Client
-from scripts.Server import Server  # Assumendo che tu abbia anche separato Server
+from scripts.Server import Server 
 
 class Main:
     def __init__(self):
